@@ -1,0 +1,11 @@
+framework module CrumbPath {
+  umbrella header "CrumbPath.h"
+
+  export *
+  module * { export * }
+}
+
+module CrumbPath.Swift {
+    header "CrumbPath-Swift.h"
+    requires objc
+}
