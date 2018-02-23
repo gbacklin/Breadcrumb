@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E16BB5820407404000902A6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4E16BB5620407403000902A6 /* README.md */; };
-		4E16BB5920407404000902A6 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4E16BB5720407403000902A6 /* LICENSE.txt */; };
 		FBF371D6203DD722008AA2B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF371D5203DD722008AA2B3 /* AppDelegate.swift */; };
 		FBF371DB203DD722008AA2B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBF371D9203DD722008AA2B3 /* Main.storyboard */; };
 		FBF371DD203DD722008AA2B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBF371DC203DD722008AA2B3 /* Assets.xcassets */; };
@@ -24,8 +22,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4E16BB5620407403000902A6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		4E16BB5720407403000902A6 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		FBF371D2203DD722008AA2B3 /* Breadcrumb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Breadcrumb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF371D5203DD722008AA2B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FBF371DA203DD722008AA2B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -57,8 +53,6 @@
 		FBF371C9203DD722008AA2B3 = {
 			isa = PBXGroup;
 			children = (
-				4E16BB5720407403000902A6 /* LICENSE.txt */,
-				4E16BB5620407403000902A6 /* README.md */,
 				FBF371ED203DD80B008AA2B3 /* Embedded Frameworks */,
 				FBF371D4203DD722008AA2B3 /* Breadcrumb */,
 				FBF371D3203DD722008AA2B3 /* Products */,
@@ -207,10 +201,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E16BB5920407404000902A6 /* LICENSE.txt in Resources */,
 				FBF371E0203DD722008AA2B3 /* LaunchScreen.storyboard in Resources */,
 				FBF371DD203DD722008AA2B3 /* Assets.xcassets in Resources */,
-				4E16BB5820407404000902A6 /* README.md in Resources */,
 				FBF371DB203DD722008AA2B3 /* Main.storyboard in Resources */,
 				FBF371FF203F213E008AA2B3 /* Hero.aiff in Resources */,
 			);

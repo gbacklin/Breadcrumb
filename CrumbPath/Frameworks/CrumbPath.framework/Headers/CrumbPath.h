@@ -2,7 +2,10 @@
 //  CrumbPath.h
 //  CrumbPath
 //
-//  Created by Backlin,Gene on 2/20/18.
+//  Copyright (C) 2014 Apple Inc. All Rights Reserved.
+//  See LICENSE.txt for this sample’s licensing information
+//
+//  Created by Backlin,Gene on 2/21/18.
 //  Copyright © 2018 Backlin,Gene. All rights reserved.
 //
 
